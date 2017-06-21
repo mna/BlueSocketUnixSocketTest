@@ -1,6 +1,6 @@
 # Test For Unix Socket Issue
 
-This is a test Xcode project for [the BlueSocket Unix Socket issue on Mac]().
+This is a test Xcode project for [the BlueSocket Unix Socket issue on Mac](https://github.com/IBM-Swift/BlueSocket/issues/68).
 
 ## Setup
 
