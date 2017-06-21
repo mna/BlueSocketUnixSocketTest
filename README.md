@@ -24,3 +24,7 @@ $ redis-cli -s /tmp/redis.socket
 
 Open the project in Xcode, run it and enter the Unix path in the textbox. Click the `connect` button. It should crash with `EXC_BAD_ACCESS`.
 
+## Test Fix
+
+Switch `Cartfile` for `Cartfile.withfix` and run `carthage update ...` again, then rerun the project.
+
